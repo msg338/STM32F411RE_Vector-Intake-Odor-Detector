@@ -22,3 +22,14 @@ The figures below illustrate the vector functions used in the system.
 
 
 # How to make? STM32MX
+<img width="1672" height="608" alt="image" src="https://github.com/user-attachments/assets/c9f81259-819e-4f50-8419-72257908f725" />
+
+<img width="538" height="498" alt="image" src="https://github.com/user-attachments/assets/199ffc9c-793d-4d6b-9b15-563ac0a2a4a3" />
+
+<img width="750" height="741" alt="image" src="https://github.com/user-attachments/assets/6ad2e8f3-b8a3-4053-ad44-2171982c8435" />
+
+<img width="760" height="749" alt="image" src="https://github.com/user-attachments/assets/74bd6eeb-a9c7-4550-85cf-4809e1fef1bf" />
+
+
+
+
