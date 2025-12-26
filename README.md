@@ -1,6 +1,9 @@
 # STM32F411RE_Vector-Intake-Odor-Detector(벡터흡입식 냄새탐색기)
 Created by 전민서, 한정수
 
+# product
+![KakaoTalk_20251226_141217975_01](https://github.com/user-attachments/assets/28371115-135f-4ed7-b186-8eaddbf986c5)
+
 # Motivation
 <img width="1346" height="639" alt="image" src="https://github.com/user-attachments/assets/852258aa-cea3-48d2-9ae3-1a6aaf4e25bc" />
 Odor spreads according to airflow, so relying solely on absolute concentration measurements makes it difficult to accurately identify the true odor source. Single-sensor systems are especially vulnerable to time delay, turbulence, and environmental variations, which can lead to unstable and unreliable tracking performance.
@@ -30,6 +33,9 @@ The figures below illustrate the vector functions used in the system.
 
 <img width="760" height="749" alt="image" src="https://github.com/user-attachments/assets/74bd6eeb-a9c7-4550-85cf-4809e1fef1bf" />
 
+# Operation Process(Youtube)
+Find 2 Zone
+https://www.youtube.com/shorts/FVjmnfNAylM
 
-
-
+Find 7 Zone
+https://www.youtube.com/shorts/8Sohw-M1sdQ
